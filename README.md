@@ -36,6 +36,7 @@ This project implements a decoder-only Transformer (GPT-style model) trained on 
 - Autoregressive token generation
 
 **Sample Output**
+
 GLOUCESTER:
 My pardon our feigned hard, madam.
 Your target you, 'tis past twenty

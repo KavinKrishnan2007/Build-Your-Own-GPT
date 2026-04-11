@@ -104,5 +104,5 @@ Structured format:
 Helps model learn instruction-following behavior
 
 **Output**
-- Fine-tuned model saved locally (./gpt2-alpaca)
+- Fine-tuned model saved locally 
 - Generates human-like responses to instructions

@@ -96,6 +96,7 @@ This project performs Supervised Fine-Tuning (SFT) of a pretrained GPT-2 model o
 - Mixed Precision: Enabled (faster + memory efficient)
 
 **Prompt Design**
+
 Structured format:
 - Instruction
 - Input (optional)

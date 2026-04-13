@@ -10,7 +10,7 @@ Built my own GPT and Fine-Tuned a pre-trained GPT
 This project implements a decoder-only Transformer (GPT-style model) trained on the Tiny Shakespeare dataset to generate text. My GPT-2 consists of 2.1 M parameters. 
 
 **Features**
-- Used GPT-2’s pretrained BPE tokenizer, which has a ~50k subword vocabulary
+- Used Custom Regex Based Tokenizer 
 - Multi-head self-attention
 - Transformer blocks with residual connections
 - Warmup Cosine learning rate scheduler

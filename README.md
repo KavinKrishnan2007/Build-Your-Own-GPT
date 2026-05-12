@@ -1,4 +1,4 @@
-# Cynaptics_Induction_2
+# Build Your Own GPT 
 Built my own GPT and Fine-Tuned a pre-trained GPT 
 
 **TASK 1** 
